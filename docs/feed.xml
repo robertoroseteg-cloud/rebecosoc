@@ -1,6 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/rebecosoc</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+    
+    <item>
+      <title>Vía libre para envenenar</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/via-libre-para-envenenar/</description>
+      <link>https://rebelion.org/via-libre-para-envenenar/</link>
+      <guid isPermaLink="false">b16b59a2d8d88677</guid>
+      <pubDate>Sun, 05 Jul 2026 22:15:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/b16b59a2d8d88677.mp3" length="2828880" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Los que invierten en el caos climático</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/los-que-invierten-en-el-caos-climatico/</description>
+      <link>https://rebelion.org/los-que-invierten-en-el-caos-climatico/</link>
+      <guid isPermaLink="false">55e3edfcdc6dfdac</guid>
+      <pubDate>Sun, 05 Jul 2026 22:14:42 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/55e3edfcdc6dfdac.mp3" length="3857328" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La revolución de los centros de datos de IA consume la energía, el agua y los materiales del mundo</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/la-revolucion-de-los-centros-de-datos-de-ia-consume-la-energia-el-agua-y-los-materiales-del-mundo/</description>
+      <link>https://rebelion.org/la-revolucion-de-los-centros-de-datos-de-ia-consume-la-energia-el-agua-y-los-materiales-del-mundo/</link>
+      <guid isPermaLink="false">fecd87e473b59d35</guid>
+      <pubDate>Sun, 05 Jul 2026 22:13:57 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/fecd87e473b59d35.mp3" length="474336" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Más de 380 millones de europeos enfrentan temperaturas por encima de los 30ºC</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/mas-de-380-millones-de-europeos-enfrentan-temperaturas-por-encima-de-los-30oc/</description>
+      <link>https://rebelion.org/mas-de-380-millones-de-europeos-enfrentan-temperaturas-por-encima-de-los-30oc/</link>
+      <guid isPermaLink="false">8ab0c42e238a4512</guid>
+      <pubDate>Sun, 05 Jul 2026 22:13:46 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/8ab0c42e238a4512.mp3" length="2666304" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Universidades africanas se alían para potenciar investigación agroforestal y mitigación climática</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/universidades-africanas-se-alian-para-potenciar-investigacion-agroforestal-y-mitigacion-climatica/</description>
+      <link>https://rebelion.org/universidades-africanas-se-alian-para-potenciar-investigacion-agroforestal-y-mitigacion-climatica/</link>
+      <guid isPermaLink="false">81f025e9dba5367c</guid>
+      <pubDate>Sun, 05 Jul 2026 22:13:14 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/81f025e9dba5367c.mp3" length="3040704" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿Y si desconectásemos voluntariamente del sistema capitalista?</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/y-si-desconectasemos-voluntariamente-del-sistema-capitalista/</description>
+      <link>https://rebelion.org/y-si-desconectasemos-voluntariamente-del-sistema-capitalista/</link>
+      <guid isPermaLink="false">023ddff7dba50624</guid>
+      <pubDate>Sun, 05 Jul 2026 22:12:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/023ddff7dba50624.mp3" length="5771808" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Del petróleo al hidrógeno: la reconfiguración del poder mundial</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/del-petroleo-al-hidrogeno-la-reconfiguracion-del-poder-mundial/</description>
+      <link>https://rebelion.org/del-petroleo-al-hidrogeno-la-reconfiguracion-del-poder-mundial/</link>
+      <guid isPermaLink="false">0083670845b36eca</guid>
+      <pubDate>Sun, 05 Jul 2026 22:12:29 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/0083670845b36eca.mp3" length="2014272" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>«La minería verde es un relato, el extractivismo sigue siendo el mismo»</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/la-mineria-verde-es-un-relato-el-extractivismo-sigue-siendo-el-mismo/</description>
+      <link>https://rebelion.org/la-mineria-verde-es-un-relato-el-extractivismo-sigue-siendo-el-mismo/</link>
+      <guid isPermaLink="false">4beb8e12995eee4a</guid>
+      <pubDate>Sun, 05 Jul 2026 22:12:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/4beb8e12995eee4a.mp3" length="3405888" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La criminalidad del capitalismo fósil y la economía del genocidio</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/la-criminalidad-del-capitalismo-fosil-y-la-economia-del-genocidio/</description>
+      <link>https://rebelion.org/la-criminalidad-del-capitalismo-fosil-y-la-economia-del-genocidio/</link>
+      <guid isPermaLink="false">3eff8cf39f81f06f</guid>
+      <pubDate>Sun, 05 Jul 2026 22:12:03 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/3eff8cf39f81f06f.mp3" length="3122496" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Zulema, la intrépida “Claudia”</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
+      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
+      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Las guerras por Guerrero</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
+      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
+      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando el capital invocó a la patria fue para colonizar territorio mapuche</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</description>
+      <link>https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</link>
+      <guid isPermaLink="false">0476f85ad805e9dc</guid>
+      <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
+      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
+      <guid isPermaLink="false">93288eccb26a0137</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pero dos lo zarandeaban para que se callara</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
+      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
+      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
+      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
+      <guid isPermaLink="false">bd51fc61a35596c8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lo político en Cecosesola</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
+      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
+      <guid isPermaLink="false">731770e3cc47abd7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
+      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
+      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
+      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
+      <guid isPermaLink="false">599f2175eaa58998</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
+      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
+      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
+      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La mejor ayuda para Venezuela es levantar el bloqueo</title>
+      <description>Venezuela – Rebelion — https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</description>
+      <link>https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</link>
+      <guid isPermaLink="false">9ab010c1c4dc0d72</guid>
+      <pubDate>Sun, 05 Jul 2026 06:04:36 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/9ab010c1c4dc0d72.mp3" length="1422144" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
