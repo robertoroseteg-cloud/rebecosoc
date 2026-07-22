@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Clima, salud y elección energética</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/clima-salud-y-eleccion-energetica/</description>
+      <link>https://rebelion.org/clima-salud-y-eleccion-energetica/</link>
+      <guid isPermaLink="false">11c9fb0e7cde82c2</guid>
+      <pubDate>Wed, 22 Jul 2026 17:02:51 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/11c9fb0e7cde82c2.mp3" length="5186448" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La ecología de la desposesión: el «sionismo verde» como instrumento de limpieza étnica</title>
       <description>Ecología social – Rebelion — https://rebelion.org/la-ecologia-de-la-desposesion-el-sionismo-verde-como-instrumento-de-limpieza-etnica/</description>
       <link>https://rebelion.org/la-ecologia-de-la-desposesion-el-sionismo-verde-como-instrumento-de-limpieza-etnica/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">023ddff7dba50624</guid>
       <pubDate>Sun, 05 Jul 2026 22:12:38 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/023ddff7dba50624.mp3" length="5771808" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Del petróleo al hidrógeno: la reconfiguración del poder mundial</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/del-petroleo-al-hidrogeno-la-reconfiguracion-del-poder-mundial/</description>
-      <link>https://rebelion.org/del-petroleo-al-hidrogeno-la-reconfiguracion-del-poder-mundial/</link>
-      <guid isPermaLink="false">0083670845b36eca</guid>
-      <pubDate>Sun, 05 Jul 2026 22:12:29 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/0083670845b36eca.mp3" length="2014272" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
