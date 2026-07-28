@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los problemas de la biodiversidad</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/los-problemas-de-la-biodiversidad/</description>
+      <link>https://rebelion.org/los-problemas-de-la-biodiversidad/</link>
+      <guid isPermaLink="false">ce68c8424ea0e854</guid>
+      <pubDate>Tue, 28 Jul 2026 17:15:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/ce68c8424ea0e854.mp3" length="1583712" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>China azotada por «fenómenos meteorológicos mortíferos»</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/china-azotada-por-fenomenos-meteorologicos-mortiferos/</description>
+      <link>https://rebelion.org/china-azotada-por-fenomenos-meteorologicos-mortiferos/</link>
+      <guid isPermaLink="false">08aa71b904b95c61</guid>
+      <pubDate>Tue, 28 Jul 2026 17:15:09 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/08aa71b904b95c61.mp3" length="2628144" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Las Administraciones frente al calcinamiento del país</title>
       <description>Ecología social – Rebelion — https://rebelion.org/las-administraciones-frente-al-calcinamiento-del-pais/</description>
       <link>https://rebelion.org/las-administraciones-frente-al-calcinamiento-del-pais/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">5c1052bb96e26ed5</guid>
       <pubDate>Sun, 19 Jul 2026 06:58:37 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/5c1052bb96e26ed5.mp3" length="2428848" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Calor mortal irrumpe en los datos climáticos latinoamericanos</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/calor-mortal-irrumpe-en-los-datos-climaticos-latinoamericanos/</description>
-      <link>https://rebelion.org/calor-mortal-irrumpe-en-los-datos-climaticos-latinoamericanos/</link>
-      <guid isPermaLink="false">aa6b366b416d9e70</guid>
-      <pubDate>Sun, 19 Jul 2026 06:58:12 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/aa6b366b416d9e70.mp3" length="3291408" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Por qué preocuparnos por el cambio climático?</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/por-que-preocuparnos-por-el-cambio-climatico/</description>
-      <link>https://rebelion.org/por-que-preocuparnos-por-el-cambio-climatico/</link>
-      <guid isPermaLink="false">d3046d3f455b938f</guid>
-      <pubDate>Sun, 19 Jul 2026 06:57:34 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/d3046d3f455b938f.mp3" length="1705536" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
