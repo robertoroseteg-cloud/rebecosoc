@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Energía nuclear o armas nucleares</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/energia-nuclear-o-armas-nucleares/</description>
+      <link>https://rebelion.org/energia-nuclear-o-armas-nucleares/</link>
+      <guid isPermaLink="false">42865c088f8632bf</guid>
+      <pubDate>Wed, 29 Jul 2026 16:55:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/42865c088f8632bf.mp3" length="2234592" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿Por qué los seres vivos no pueden tolerar el calor?</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/por-que-los-seres-vivos-no-pueden-tolerar-el-calor/</description>
+      <link>https://rebelion.org/por-que-los-seres-vivos-no-pueden-tolerar-el-calor/</link>
+      <guid isPermaLink="false">c3150a4f101580ef</guid>
+      <pubDate>Wed, 29 Jul 2026 16:55:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/c3150a4f101580ef.mp3" length="4462560" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los problemas de la biodiversidad</title>
       <description>Ecología social – Rebelion — https://rebelion.org/los-problemas-de-la-biodiversidad/</description>
       <link>https://rebelion.org/los-problemas-de-la-biodiversidad/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">dd083e043e3fda71</guid>
       <pubDate>Sun, 19 Jul 2026 07:00:58 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/dd083e043e3fda71.mp3" length="10351008" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>India: Detienen a un activista indígena tras manifestarse contra un proyecto de hotel de lujo</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/india-detienen-a-un-activista-indigena-tras-manifestarse-contra-un-proyecto-de-hotel-de-lujo/</description>
-      <link>https://rebelion.org/india-detienen-a-un-activista-indigena-tras-manifestarse-contra-un-proyecto-de-hotel-de-lujo/</link>
-      <guid isPermaLink="false">588051a063b1e97b</guid>
-      <pubDate>Sun, 19 Jul 2026 06:58:47 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/588051a063b1e97b.mp3" length="1417536" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La Calera: el pueblo colombiano que plantó cara a Coca-Cola por los derechos del agua</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/la-calera-el-pueblo-colombiano-que-planto-cara-a-coca-cola-por-los-derechos-del-agua/</description>
-      <link>https://rebelion.org/la-calera-el-pueblo-colombiano-que-planto-cara-a-coca-cola-por-los-derechos-del-agua/</link>
-      <guid isPermaLink="false">5c1052bb96e26ed5</guid>
-      <pubDate>Sun, 19 Jul 2026 06:58:37 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/5c1052bb96e26ed5.mp3" length="2428848" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
