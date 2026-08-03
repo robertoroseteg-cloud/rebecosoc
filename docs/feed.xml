@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Energía libre, la última revolución de la humanidad</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/energia-libre-la-ultima-revolucion-de-la-humanidad/</description>
+      <link>https://rebelion.org/energia-libre-la-ultima-revolucion-de-la-humanidad/</link>
+      <guid isPermaLink="false">dfce1072196ef033</guid>
+      <pubDate>Mon, 03 Aug 2026 15:14:13 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/dfce1072196ef033.mp3" length="2670336" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La factura invisible del fuego: el coste económico de los incendios forestales</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/la-factura-invisible-del-fuego-el-coste-economico-de-los-incendios-forestales/</description>
+      <link>https://rebelion.org/la-factura-invisible-del-fuego-el-coste-economico-de-los-incendios-forestales/</link>
+      <guid isPermaLink="false">fccb06b9c31ea7b2</guid>
+      <pubDate>Mon, 03 Aug 2026 15:13:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/fccb06b9c31ea7b2.mp3" length="2712960" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Geopolítica de la sed: el agua como nuevo eje de la acumulación</title>
       <description>Ecología social – Rebelion — https://rebelion.org/geopolitica-de-la-sed-el-agua-como-nuevo-eje-de-la-acumulacion/</description>
       <link>https://rebelion.org/geopolitica-de-la-sed-el-agua-como-nuevo-eje-de-la-acumulacion/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">11c9fb0e7cde82c2</guid>
       <pubDate>Wed, 22 Jul 2026 17:02:51 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/11c9fb0e7cde82c2.mp3" length="5186448" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La ecología de la desposesión: el «sionismo verde» como instrumento de limpieza étnica</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/la-ecologia-de-la-desposesion-el-sionismo-verde-como-instrumento-de-limpieza-etnica/</description>
-      <link>https://rebelion.org/la-ecologia-de-la-desposesion-el-sionismo-verde-como-instrumento-de-limpieza-etnica/</link>
-      <guid isPermaLink="false">365e94454c900c73</guid>
-      <pubDate>Tue, 21 Jul 2026 17:02:52 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/365e94454c900c73.mp3" length="4928400" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Impactantes revelaciones desde la Antártida Occidental</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/impactantes-revelaciones-desde-la-antartida-occidental/</description>
-      <link>https://rebelion.org/impactantes-revelaciones-desde-la-antartida-occidental/</link>
-      <guid isPermaLink="false">45539bbeb8dffc1c</guid>
-      <pubDate>Mon, 20 Jul 2026 17:12:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/45539bbeb8dffc1c.mp3" length="4216464" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
