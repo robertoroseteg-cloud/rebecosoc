@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La causa fundamental de los incendios forestales</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/la-causa-fundamental-de-los-incendios-forestales/</description>
+      <link>https://rebelion.org/la-causa-fundamental-de-los-incendios-forestales/</link>
+      <guid isPermaLink="false">f258eaae199bb85f</guid>
+      <pubDate>Tue, 04 Aug 2026 14:37:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/f258eaae199bb85f.mp3" length="3366144" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El Niño está «echando más leña al fuego de un planeta en llamas»</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/el-nino-esta-echando-mas-lena-al-fuego-de-un-planeta-en-llamas/</description>
+      <link>https://rebelion.org/el-nino-esta-echando-mas-lena-al-fuego-de-un-planeta-en-llamas/</link>
+      <guid isPermaLink="false">1f71302f1f08da18</guid>
+      <pubDate>Tue, 04 Aug 2026 14:37:29 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/1f71302f1f08da18.mp3" length="1822608" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Energía libre, la última revolución de la humanidad</title>
       <description>Ecología social – Rebelion — https://rebelion.org/energia-libre-la-ultima-revolucion-de-la-humanidad/</description>
       <link>https://rebelion.org/energia-libre-la-ultima-revolucion-de-la-humanidad/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">4c60df1af20efbda</guid>
       <pubDate>Thu, 23 Jul 2026 17:07:47 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/4c60df1af20efbda.mp3" length="3048624" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Olas de calor: rabia y tristeza. Y esperanza, a pesar de todo</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/olas-de-calor-rabia-y-tristeza-y-esperanza-a-pesar-de-todo/</description>
-      <link>https://rebelion.org/olas-de-calor-rabia-y-tristeza-y-esperanza-a-pesar-de-todo/</link>
-      <guid isPermaLink="false">a618d7b052a85d76</guid>
-      <pubDate>Thu, 23 Jul 2026 17:07:04 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/a618d7b052a85d76.mp3" length="9836352" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Clima, salud y elección energética</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/clima-salud-y-eleccion-energetica/</description>
-      <link>https://rebelion.org/clima-salud-y-eleccion-energetica/</link>
-      <guid isPermaLink="false">11c9fb0e7cde82c2</guid>
-      <pubDate>Wed, 22 Jul 2026 17:02:51 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/11c9fb0e7cde82c2.mp3" length="5186448" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
