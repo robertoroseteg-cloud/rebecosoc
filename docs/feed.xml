@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Tierra y dignidad: luchas ancestrales, voces de futuro</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/tierra-y-dignidad-luchas-ancestrales-voces-de-futuro/</description>
+      <link>https://rebelion.org/tierra-y-dignidad-luchas-ancestrales-voces-de-futuro/</link>
+      <guid isPermaLink="false">a3ded7669cbf1079</guid>
+      <pubDate>Wed, 05 Aug 2026 14:30:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/a3ded7669cbf1079.mp3" length="2304000" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando el cielo arde</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/cuando-el-cielo-arde/</description>
+      <link>https://rebelion.org/cuando-el-cielo-arde/</link>
+      <guid isPermaLink="false">2423a7669ee36661</guid>
+      <pubDate>Wed, 05 Aug 2026 14:30:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/2423a7669ee36661.mp3" length="2659104" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La causa fundamental de los incendios forestales</title>
       <description>Ecología social – Rebelion — https://rebelion.org/la-causa-fundamental-de-los-incendios-forestales/</description>
       <link>https://rebelion.org/la-causa-fundamental-de-los-incendios-forestales/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">8a2b8e2aeb136df1</guid>
       <pubDate>Fri, 24 Jul 2026 17:58:22 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/8a2b8e2aeb136df1.mp3" length="1726416" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>James Manglona, el guardián de los últimos «árboles de fuego» del Pacífico</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/james-manglona-el-guardian-de-los-ultimos-arboles-de-fuego-del-pacifico/</description>
-      <link>https://rebelion.org/james-manglona-el-guardian-de-los-ultimos-arboles-de-fuego-del-pacifico/</link>
-      <guid isPermaLink="false">c43404fad3da7fe1</guid>
-      <pubDate>Fri, 24 Jul 2026 17:58:05 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/c43404fad3da7fe1.mp3" length="3946320" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Aragón como territorio de acumulación: el verdadero rostro de la transición renovable</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/aragon-como-territorio-de-acumulacion-el-verdadero-rostro-de-la-transicion-renovable/</description>
-      <link>https://rebelion.org/aragon-como-territorio-de-acumulacion-el-verdadero-rostro-de-la-transicion-renovable/</link>
-      <guid isPermaLink="false">4c60df1af20efbda</guid>
-      <pubDate>Thu, 23 Jul 2026 17:07:47 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/4c60df1af20efbda.mp3" length="3048624" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
