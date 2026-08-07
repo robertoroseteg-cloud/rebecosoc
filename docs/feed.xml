@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La manipulación de la crisis  ecológica</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/la-manipulacion-de-la-crisis-ecologica/</description>
+      <link>https://rebelion.org/la-manipulacion-de-la-crisis-ecologica/</link>
+      <guid isPermaLink="false">a409121dd27ff6b3</guid>
+      <pubDate>Fri, 07 Aug 2026 13:35:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/a409121dd27ff6b3.mp3" length="4355280" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Guerras, cambio climático y ecocidio</title>
       <description>Ecología social – Rebelion — https://rebelion.org/guerras-cambio-climatico-y-ecocidio/</description>
       <link>https://rebelion.org/guerras-cambio-climatico-y-ecocidio/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f995ae68c4111fdd</guid>
       <pubDate>Sat, 25 Jul 2026 15:51:03 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/f995ae68c4111fdd.mp3" length="1092672" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La sombra de Trump se cierne sobre las ambiciones ecológicas de los Juegos Olímpicos de Los Ángeles 2028</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/la-sombra-de-trump-se-cierne-sobre-las-ambiciones-ecologicas-de-los-juegos-olimpicos-de-los-angeles-2028/</description>
-      <link>https://rebelion.org/la-sombra-de-trump-se-cierne-sobre-las-ambiciones-ecologicas-de-los-juegos-olimpicos-de-los-angeles-2028/</link>
-      <guid isPermaLink="false">4fc4bd56a0832341</guid>
-      <pubDate>Sat, 25 Jul 2026 15:50:54 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/4fc4bd56a0832341.mp3" length="3417984" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
