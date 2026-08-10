@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Todo es energía</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/todo-es-energia/</description>
+      <link>https://rebelion.org/todo-es-energia/</link>
+      <guid isPermaLink="false">6bb60fa2b9d11c6c</guid>
+      <pubDate>Mon, 10 Aug 2026 13:40:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/6bb60fa2b9d11c6c.mp3" length="2396880" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Trump, el último eslabón de 34 años de inoperancia y negacionismo climático</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/trump-el-ultimo-eslabon-de-34-anos-de-inoperancia-y-negacionismo-climatico/</description>
+      <link>https://rebelion.org/trump-el-ultimo-eslabon-de-34-anos-de-inoperancia-y-negacionismo-climatico/</link>
+      <guid isPermaLink="false">f3f2036f898a7778</guid>
+      <pubDate>Mon, 10 Aug 2026 13:40:10 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/f3f2036f898a7778.mp3" length="346320" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Éxito: se completa la demarcación del territorio de un pueblo indígena en aislamiento en Brasil</title>
       <description>Ecología social – Rebelion — https://rebelion.org/exito-see-completa-la-demarcacion-del-territorio-de-un-pueblo-indigena-en-aislamiento-en-brasil/</description>
       <link>https://rebelion.org/exito-see-completa-la-demarcacion-del-territorio-de-un-pueblo-indigena-en-aislamiento-en-brasil/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">ce68c8424ea0e854</guid>
       <pubDate>Tue, 28 Jul 2026 17:15:26 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/ce68c8424ea0e854.mp3" length="1583712" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>China azotada por «fenómenos meteorológicos mortíferos»</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/china-azotada-por-fenomenos-meteorologicos-mortiferos/</description>
-      <link>https://rebelion.org/china-azotada-por-fenomenos-meteorologicos-mortiferos/</link>
-      <guid isPermaLink="false">08aa71b904b95c61</guid>
-      <pubDate>Tue, 28 Jul 2026 17:15:09 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/08aa71b904b95c61.mp3" length="2628144" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las Administraciones frente al calcinamiento del país</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/las-administraciones-frente-al-calcinamiento-del-pais/</description>
-      <link>https://rebelion.org/las-administraciones-frente-al-calcinamiento-del-pais/</link>
-      <guid isPermaLink="false">dee0b3f2a2a3c465</guid>
-      <pubDate>Mon, 27 Jul 2026 18:09:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/dee0b3f2a2a3c465.mp3" length="2393568" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
