@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Análisis sobre la situación actual del mercado de emisiones de carbono</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/analisis-sobre-la-situacion-actual-del-mercado-de-emisiones-de-carbono/</description>
+      <link>https://rebelion.org/analisis-sobre-la-situacion-actual-del-mercado-de-emisiones-de-carbono/</link>
+      <guid isPermaLink="false">c329888cdb0cdce1</guid>
+      <pubDate>Tue, 11 Aug 2026 13:39:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/c329888cdb0cdce1.mp3" length="2740896" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El sur de Europa en llamas: un capitalismo pirómano</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/el-sur-de-europa-en-llamas-un-capitalismo-piromano/</description>
+      <link>https://rebelion.org/el-sur-de-europa-en-llamas-un-capitalismo-piromano/</link>
+      <guid isPermaLink="false">06e7ec68177e20ce</guid>
+      <pubDate>Tue, 11 Aug 2026 13:39:34 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/06e7ec68177e20ce.mp3" length="4555296" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Todo es energía</title>
       <description>Ecología social – Rebelion — https://rebelion.org/todo-es-energia/</description>
       <link>https://rebelion.org/todo-es-energia/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">42865c088f8632bf</guid>
       <pubDate>Wed, 29 Jul 2026 16:55:55 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/42865c088f8632bf.mp3" length="2234592" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Por qué los seres vivos no pueden tolerar el calor?</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/por-que-los-seres-vivos-no-pueden-tolerar-el-calor/</description>
-      <link>https://rebelion.org/por-que-los-seres-vivos-no-pueden-tolerar-el-calor/</link>
-      <guid isPermaLink="false">c3150a4f101580ef</guid>
-      <pubDate>Wed, 29 Jul 2026 16:55:19 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/c3150a4f101580ef.mp3" length="4462560" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Los problemas de la biodiversidad</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/los-problemas-de-la-biodiversidad/</description>
-      <link>https://rebelion.org/los-problemas-de-la-biodiversidad/</link>
-      <guid isPermaLink="false">ce68c8424ea0e854</guid>
-      <pubDate>Tue, 28 Jul 2026 17:15:26 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/ce68c8424ea0e854.mp3" length="1583712" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
