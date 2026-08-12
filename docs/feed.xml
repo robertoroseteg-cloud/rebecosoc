@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El manifiesto de nueve científicos sobre un planeta que ya no puede más</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/el-manifiesto-de-nueve-cientificos-sobre-un-planeta-que-ya-no-puede-mas/</description>
+      <link>https://rebelion.org/el-manifiesto-de-nueve-cientificos-sobre-un-planeta-que-ya-no-puede-mas/</link>
+      <guid isPermaLink="false">b9c3173ffbc3b1b2</guid>
+      <pubDate>Wed, 12 Aug 2026 13:42:57 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/b9c3173ffbc3b1b2.mp3" length="4625712" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Análisis sobre la situación actual del mercado de emisiones de carbono</title>
       <description>Ecología social – Rebelion — https://rebelion.org/analisis-sobre-la-situacion-actual-del-mercado-de-emisiones-de-carbono/</description>
       <link>https://rebelion.org/analisis-sobre-la-situacion-actual-del-mercado-de-emisiones-de-carbono/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">b6bfe4869c516641</guid>
       <pubDate>Thu, 30 Jul 2026 14:29:42 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/b6bfe4869c516641.mp3" length="3713184" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Energía nuclear o armas nucleares</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/energia-nuclear-o-armas-nucleares/</description>
-      <link>https://rebelion.org/energia-nuclear-o-armas-nucleares/</link>
-      <guid isPermaLink="false">42865c088f8632bf</guid>
-      <pubDate>Wed, 29 Jul 2026 16:55:55 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/42865c088f8632bf.mp3" length="2234592" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
