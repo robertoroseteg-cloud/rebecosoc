@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La guerra silenciosa contra el planeta y la humanidad</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/la-guerra-silenciosa-contra-el-planeta-y-la-humanidad/</description>
+      <link>https://rebelion.org/la-guerra-silenciosa-contra-el-planeta-y-la-humanidad/</link>
+      <guid isPermaLink="false">16c337910df374b4</guid>
+      <pubDate>Sat, 15 Aug 2026 12:58:02 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/16c337910df374b4.mp3" length="6402672" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Trump firma una orden ejecutiva para reducir las vacunas infantiles</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/trump-firma-una-orden-ejecutiva-para-reducir-las-vacunas-infantiles-en-pleno-aumento-de-casos-de-sarampion-en-eeuu/</description>
+      <link>https://rebelion.org/trump-firma-una-orden-ejecutiva-para-reducir-las-vacunas-infantiles-en-pleno-aumento-de-casos-de-sarampion-en-eeuu/</link>
+      <guid isPermaLink="false">afb52e0898bb8b5a</guid>
+      <pubDate>Sat, 15 Aug 2026 12:57:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/afb52e0898bb8b5a.mp3" length="1773648" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La sequía no empieza cuando deja de llover</title>
       <description>Ecología social – Rebelion — https://rebelion.org/la-sequia-no-empieza-cuando-deja-de-llover/</description>
       <link>https://rebelion.org/la-sequia-no-empieza-cuando-deja-de-llover/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">a5287f33ddd6f944</guid>
       <pubDate>Sat, 01 Aug 2026 13:51:16 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/a5287f33ddd6f944.mp3" length="3155184" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Animales libres contra el fuego: el cambio de paradigma necesario</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/animales-libres-contra-el-fuego-el-cambio-de-paradigma-necesario/</description>
-      <link>https://rebelion.org/animales-libres-contra-el-fuego-el-cambio-de-paradigma-necesario/</link>
-      <guid isPermaLink="false">f1e1990601ddb849</guid>
-      <pubDate>Fri, 31 Jul 2026 14:33:28 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/f1e1990601ddb849.mp3" length="6421968" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«La contaminación del aire es el nuevo tabaco»</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/la-contaminacion-del-aire-es-el-nuevo-tabaco/</description>
-      <link>https://rebelion.org/la-contaminacion-del-aire-es-el-nuevo-tabaco/</link>
-      <guid isPermaLink="false">83d84202ba3eac72</guid>
-      <pubDate>Fri, 31 Jul 2026 14:32:05 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/83d84202ba3eac72.mp3" length="2280816" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
