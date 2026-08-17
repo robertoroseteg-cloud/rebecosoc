@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El espejismo del hidrógeno verde: por qué la obsesión por el color oculta una transición injusta</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/el-espejismo-del-hidrogeno-verde-por-que-la-obsesion-por-el-color-oculta-una-transicion-injusta/</description>
+      <link>https://rebelion.org/el-espejismo-del-hidrogeno-verde-por-que-la-obsesion-por-el-color-oculta-una-transicion-injusta/</link>
+      <guid isPermaLink="false">6fbe67298d75da7e</guid>
+      <pubDate>Mon, 17 Aug 2026 13:04:03 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/6fbe67298d75da7e.mp3" length="2420064" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La guerra silenciosa contra el planeta y la humanidad</title>
       <description>Ecología social – Rebelion — https://rebelion.org/la-guerra-silenciosa-contra-el-planeta-y-la-humanidad/</description>
       <link>https://rebelion.org/la-guerra-silenciosa-contra-el-planeta-y-la-humanidad/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">59d1a6c42306f5f4</guid>
       <pubDate>Sat, 01 Aug 2026 13:52:03 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/59d1a6c42306f5f4.mp3" length="4337424" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La doble cara de la emergencia climática: cuando la salud esconde el conflicto energético</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/la-doble-cara-de-la-emergencia-climatica-cuando-la-salud-esconde-el-conflicto-energetico/</description>
-      <link>https://rebelion.org/la-doble-cara-de-la-emergencia-climatica-cuando-la-salud-esconde-el-conflicto-energetico/</link>
-      <guid isPermaLink="false">a5287f33ddd6f944</guid>
-      <pubDate>Sat, 01 Aug 2026 13:51:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/a5287f33ddd6f944.mp3" length="3155184" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
