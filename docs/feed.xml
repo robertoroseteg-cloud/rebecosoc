@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Rabia, dolor y pena por los incendios forestales</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/rabia-dolor-y-pena-por-los-incendios-forestales/</description>
+      <link>https://rebelion.org/rabia-dolor-y-pena-por-los-incendios-forestales/</link>
+      <guid isPermaLink="false">84c95e04a4185055</guid>
+      <pubDate>Tue, 18 Aug 2026 13:06:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/84c95e04a4185055.mp3" length="2225808" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Por qué la «transición ecológica» es un engaño</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/por-que-la-transicion-ecologica-es-un-engano/</description>
+      <link>https://rebelion.org/por-que-la-transicion-ecologica-es-un-engano/</link>
+      <guid isPermaLink="false">31d85a872bcff540</guid>
+      <pubDate>Tue, 18 Aug 2026 13:06:06 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/31d85a872bcff540.mp3" length="6227568" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El espejismo del hidrógeno verde: por qué la obsesión por el color oculta una transición injusta</title>
       <description>Ecología social – Rebelion — https://rebelion.org/el-espejismo-del-hidrogeno-verde-por-que-la-obsesion-por-el-color-oculta-una-transicion-injusta/</description>
       <link>https://rebelion.org/el-espejismo-del-hidrogeno-verde-por-que-la-obsesion-por-el-color-oculta-una-transicion-injusta/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">dfce1072196ef033</guid>
       <pubDate>Mon, 03 Aug 2026 15:14:13 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/dfce1072196ef033.mp3" length="2670336" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La factura invisible del fuego: el coste económico de los incendios forestales</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/la-factura-invisible-del-fuego-el-coste-economico-de-los-incendios-forestales/</description>
-      <link>https://rebelion.org/la-factura-invisible-del-fuego-el-coste-economico-de-los-incendios-forestales/</link>
-      <guid isPermaLink="false">fccb06b9c31ea7b2</guid>
-      <pubDate>Mon, 03 Aug 2026 15:13:53 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/fccb06b9c31ea7b2.mp3" length="2712960" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Geopolítica de la sed: el agua como nuevo eje de la acumulación</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/geopolitica-de-la-sed-el-agua-como-nuevo-eje-de-la-acumulacion/</description>
-      <link>https://rebelion.org/geopolitica-de-la-sed-el-agua-como-nuevo-eje-de-la-acumulacion/</link>
-      <guid isPermaLink="false">59d1a6c42306f5f4</guid>
-      <pubDate>Sat, 01 Aug 2026 13:52:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/59d1a6c42306f5f4.mp3" length="4337424" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
