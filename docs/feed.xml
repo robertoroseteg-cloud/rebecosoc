@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Termodinámica de El Niño 2026/2027</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/termodinamica-de-el-nino-2026-2027/</description>
+      <link>https://rebelion.org/termodinamica-de-el-nino-2026-2027/</link>
+      <guid isPermaLink="false">7f5831ff5d7fa0da</guid>
+      <pubDate>Wed, 19 Aug 2026 13:07:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/7f5831ff5d7fa0da.mp3" length="4885344" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El planeta se acerca a una temperatura que pondrá en riesgo a casi 300 millones de personas mayores de 60 años</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/el-planeta-se-acerca-a-una-temperatura-que-pondra-en-riesgo-a-casi-300-millones-de-personas-mayores-de-60-anos/</description>
+      <link>https://rebelion.org/el-planeta-se-acerca-a-una-temperatura-que-pondra-en-riesgo-a-casi-300-millones-de-personas-mayores-de-60-anos/</link>
+      <guid isPermaLink="false">f598ef52948e1135</guid>
+      <pubDate>Wed, 19 Aug 2026 13:06:56 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/f598ef52948e1135.mp3" length="2247840" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Rabia, dolor y pena por los incendios forestales</title>
       <description>Ecología social – Rebelion — https://rebelion.org/rabia-dolor-y-pena-por-los-incendios-forestales/</description>
       <link>https://rebelion.org/rabia-dolor-y-pena-por-los-incendios-forestales/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">f258eaae199bb85f</guid>
       <pubDate>Tue, 04 Aug 2026 14:37:55 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/f258eaae199bb85f.mp3" length="3366144" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El Niño está «echando más leña al fuego de un planeta en llamas»</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/el-nino-esta-echando-mas-lena-al-fuego-de-un-planeta-en-llamas/</description>
-      <link>https://rebelion.org/el-nino-esta-echando-mas-lena-al-fuego-de-un-planeta-en-llamas/</link>
-      <guid isPermaLink="false">1f71302f1f08da18</guid>
-      <pubDate>Tue, 04 Aug 2026 14:37:29 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/1f71302f1f08da18.mp3" length="1822608" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Energía libre, la última revolución de la humanidad</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/energia-libre-la-ultima-revolucion-de-la-humanidad/</description>
-      <link>https://rebelion.org/energia-libre-la-ultima-revolucion-de-la-humanidad/</link>
-      <guid isPermaLink="false">dfce1072196ef033</guid>
-      <pubDate>Mon, 03 Aug 2026 15:14:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/dfce1072196ef033.mp3" length="2670336" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
