@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Las lluvias y el cambio climático</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/las-lluvias-y-el-cambio-climatico/</description>
+      <link>https://rebelion.org/las-lluvias-y-el-cambio-climatico/</link>
+      <guid isPermaLink="false">438cce9d975f910c</guid>
+      <pubDate>Mon, 24 Aug 2026 13:11:34 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/438cce9d975f910c.mp3" length="1746864" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Europa casi infernal</title>
+      <description>Ecología social – Rebelion — https://rebelion.org/europa-casi-infernal/</description>
+      <link>https://rebelion.org/europa-casi-infernal/</link>
+      <guid isPermaLink="false">ce8e473783d2104c</guid>
+      <pubDate>Mon, 24 Aug 2026 13:11:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/ce8e473783d2104c.mp3" length="3784032" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La geometría solar: el fin de la geopolítica del subsuelo</title>
       <description>Ecología social – Rebelion — https://rebelion.org/la-geometria-solar-el-fin-de-la-geopolitica-del-subsuelo/</description>
       <link>https://rebelion.org/la-geometria-solar-el-fin-de-la-geopolitica-del-subsuelo/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">f3f2036f898a7778</guid>
       <pubDate>Mon, 10 Aug 2026 13:40:10 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/f3f2036f898a7778.mp3" length="346320" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Éxito: se completa la demarcación del territorio de un pueblo indígena en aislamiento en Brasil</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/exito-see-completa-la-demarcacion-del-territorio-de-un-pueblo-indigena-en-aislamiento-en-brasil/</description>
-      <link>https://rebelion.org/exito-see-completa-la-demarcacion-del-territorio-de-un-pueblo-indigena-en-aislamiento-en-brasil/</link>
-      <guid isPermaLink="false">a736d55286209edb</guid>
-      <pubDate>Sat, 08 Aug 2026 13:10:59 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/a736d55286209edb.mp3" length="2059920" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El mundo no está cumpliendo sus compromisos con la naturaleza</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/el-mundo-no-esta-cumpliendo-sus-compromisos-con-la-naturaleza/</description>
-      <link>https://rebelion.org/el-mundo-no-esta-cumpliendo-sus-compromisos-con-la-naturaleza/</link>
-      <guid isPermaLink="false">08fc76f92fc645d6</guid>
-      <pubDate>Sat, 08 Aug 2026 13:10:35 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/08fc76f92fc645d6.mp3" length="3404880" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
