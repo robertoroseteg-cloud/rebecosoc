@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La gran tarea humana es cambiar de conducta para conservarse como especie</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/la-gran-tarea-humana-es-cambiar-de-conducta-para-conservarse-como-especie/</description>
+      <link>https://rebelion.org/la-gran-tarea-humana-es-cambiar-de-conducta-para-conservarse-como-especie/</link>
+      <guid isPermaLink="false">9aafe92606df92be</guid>
+      <pubDate>Mon, 26 Oct 2026 18:41:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/9aafe92606df92be.mp3" length="1099296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>«Coexistiremos hasta morir, si eso es la coexistencia»</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/coexistiremos-hasta-morir-si-eso-es-la-coexistencia/</description>
+      <link>https://rebelion.org/coexistiremos-hasta-morir-si-eso-es-la-coexistencia/</link>
+      <guid isPermaLink="false">9555392a9f15eca2</guid>
+      <pubDate>Mon, 26 Oct 2026 18:40:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/9555392a9f15eca2.mp3" length="4376448" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El tejido de los mil soles</title>
       <description>Rebelión · Ecología social — https://rebelion.org/el-tejido-de-los-mil-soles/</description>
       <link>https://rebelion.org/el-tejido-de-los-mil-soles/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">908244bfa0768aea</guid>
       <pubDate>Tue, 25 Aug 2026 13:09:35 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/908244bfa0768aea.mp3" length="3533040" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las lluvias y el cambio climático</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/las-lluvias-y-el-cambio-climatico/</description>
-      <link>https://rebelion.org/las-lluvias-y-el-cambio-climatico/</link>
-      <guid isPermaLink="false">438cce9d975f910c</guid>
-      <pubDate>Mon, 24 Aug 2026 13:11:34 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/438cce9d975f910c.mp3" length="1746864" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Europa casi infernal</title>
-      <description>Ecología social – Rebelion — https://rebelion.org/europa-casi-infernal/</description>
-      <link>https://rebelion.org/europa-casi-infernal/</link>
-      <guid isPermaLink="false">ce8e473783d2104c</guid>
-      <pubDate>Mon, 24 Aug 2026 13:11:11 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/ce8e473783d2104c.mp3" length="3784032" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
