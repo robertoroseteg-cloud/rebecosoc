@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El suelo como espejo de la relación entre humanidad y naturaleza</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/el-suelo-como-espejo-de-la-relacion-entre-humanidad-y-naturaleza/</description>
+      <link>https://rebelion.org/el-suelo-como-espejo-de-la-relacion-entre-humanidad-y-naturaleza/</link>
+      <guid isPermaLink="false">c8c5439dc1eb1b43</guid>
+      <pubDate>Fri, 06 Nov 2026 19:22:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/c8c5439dc1eb1b43.mp3" length="8339760" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«Calorcito vital» un cortometraje decrecentista (vídeo)</title>
       <description>Rebelión · Ecología social — https://rebelion.org/calorcito-vital-un-cortometraje-decrecentista-video/</description>
       <link>https://rebelion.org/calorcito-vital-un-cortometraje-decrecentista-video/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f1b4d1db8511dd16</guid>
       <pubDate>Sat, 24 Oct 2026 16:00:16 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/f1b4d1db8511dd16.mp3" length="195984" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«Si liberalizamos todo, el fascismo fósil seguirá imperando»</title>
-      <description>Rebelión · Ecología social — https://rebelion.org/si-liberalizamos-todo-el-fascismo-fosil-seguira-imperando/</description>
-      <link>https://rebelion.org/si-liberalizamos-todo-el-fascismo-fosil-seguira-imperando/</link>
-      <guid isPermaLink="false">c0495bdffdb3e924</guid>
-      <pubDate>Sat, 24 Oct 2026 15:56:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/c0495bdffdb3e924.mp3" length="132336" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
