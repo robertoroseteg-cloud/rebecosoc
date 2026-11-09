@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Del cautiverio doméstico al tráfico de especies: «La fauna silvestre no es mascota»</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/del-cautiverio-domestico-al-trafico-de-especies-la-fauna-silvestre-no-es-mascota/</description>
+      <link>https://rebelion.org/del-cautiverio-domestico-al-trafico-de-especies-la-fauna-silvestre-no-es-mascota/</link>
+      <guid isPermaLink="false">584fbaa4e238e86e</guid>
+      <pubDate>Mon, 09 Nov 2026 22:18:29 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/584fbaa4e238e86e.mp3" length="5212368" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Una América Latina fragmentada se dirige a la COP31 en Antalya</title>
       <description>Rebelión · Ecología social — https://rebelion.org/una-america-latina-fragmentada-se-dirige-a-la-cop31-en-antalya/</description>
       <link>https://rebelion.org/una-america-latina-fragmentada-se-dirige-a-la-cop31-en-antalya/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">961998d8bb80df9c</guid>
       <pubDate>Sat, 24 Oct 2026 16:08:23 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/961998d8bb80df9c.mp3" length="200736" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El coste humano y ambiental de la industria de la harina de pescado</title>
-      <description>Rebelión · Ecología social — https://rebelion.org/el-coste-humano-y-ambiental-de-la-industria-de-la-harina-de-pescado/</description>
-      <link>https://rebelion.org/el-coste-humano-y-ambiental-de-la-industria-de-la-harina-de-pescado/</link>
-      <guid isPermaLink="false">b1a4297eda33d318</guid>
-      <pubDate>Sat, 24 Oct 2026 16:06:19 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/b1a4297eda33d318.mp3" length="155232" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
