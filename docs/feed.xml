@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Coexistencia y límites en el Antropoceno</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/coexistencia-y-limites-en-el-antropoceno/</description>
+      <link>https://rebelion.org/coexistencia-y-limites-en-el-antropoceno/</link>
+      <guid isPermaLink="false">0cce829a88d0e5b6</guid>
+      <pubDate>Thu, 12 Nov 2026 19:53:45 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/0cce829a88d0e5b6.mp3" length="2176560" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Los impactos destructivos de la minería son eternos</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/los-impactos-destructivos-de-la-mineria-son-eternos/</description>
+      <link>https://rebelion.org/los-impactos-destructivos-de-la-mineria-son-eternos/</link>
+      <guid isPermaLink="false">a5c5fd4e0784b8e7</guid>
+      <pubDate>Thu, 12 Nov 2026 19:52:51 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/a5c5fd4e0784b8e7.mp3" length="4450752" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El Gobierno bloquea la protección del territorio de un pueblo indígena en aislamiento</title>
       <description>Rebelión · Ecología social — https://rebelion.org/el-gobierno-bloquea-la-proteccion-del-territorio-de-un-pueblo-indigena-en-aislamiento/</description>
       <link>https://rebelion.org/el-gobierno-bloquea-la-proteccion-del-territorio-de-un-pueblo-indigena-en-aislamiento/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">88a083cbb2fe5d33</guid>
       <pubDate>Wed, 28 Oct 2026 18:20:51 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/88a083cbb2fe5d33.mp3" length="2849472" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La COP17 pone a prueba el compromiso global para frenar la pérdida de biodiversidad</title>
-      <description>Rebelión · Ecología social — https://rebelion.org/la-cop17-pone-a-prueba-el-compromiso-global-para-frenar-la-perdida-de-biodiversidad/</description>
-      <link>https://rebelion.org/la-cop17-pone-a-prueba-el-compromiso-global-para-frenar-la-perdida-de-biodiversidad/</link>
-      <guid isPermaLink="false">b000971ae01bdfdf</guid>
-      <pubDate>Tue, 27 Oct 2026 17:58:26 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/b000971ae01bdfdf.mp3" length="2300544" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La gran tarea humana es cambiar de conducta para conservarse como especie</title>
-      <description>Rebelión · Ecología social — https://rebelion.org/la-gran-tarea-humana-es-cambiar-de-conducta-para-conservarse-como-especie/</description>
-      <link>https://rebelion.org/la-gran-tarea-humana-es-cambiar-de-conducta-para-conservarse-como-especie/</link>
-      <guid isPermaLink="false">9aafe92606df92be</guid>
-      <pubDate>Mon, 26 Oct 2026 18:41:26 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/9aafe92606df92be.mp3" length="1099296" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
