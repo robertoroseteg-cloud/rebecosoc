@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>William Nordhaus: crecimiento y cambio climático</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/william-nordhaus-crecimiento-y-cambio-climatico/</description>
+      <link>https://rebelion.org/william-nordhaus-crecimiento-y-cambio-climatico/</link>
+      <guid isPermaLink="false">116430d22c77eefb</guid>
+      <pubDate>Sat, 14 Nov 2026 17:59:08 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/116430d22c77eefb.mp3" length="4688640" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Día uno de la cumbre del clima: el anfitrión anuncia que extraerá más petróleo todavía</title>
       <description>Rebelión · Ecología social — https://rebelion.org/dia-uno-de-la-cumbre-del-clima-el-anfitrion-anuncia-que-extraera-mas-petroleo-todavia/</description>
       <link>https://rebelion.org/dia-uno-de-la-cumbre-del-clima-el-anfitrion-anuncia-que-extraera-mas-petroleo-todavia/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">756c0e18707fcc6a</guid>
       <pubDate>Thu, 29 Oct 2026 18:26:07 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/756c0e18707fcc6a.mp3" length="2569680" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El futuro de la libertad: la energía, el poder y la arquitectura de la civilización</title>
-      <description>Rebelión · Ecología social — https://rebelion.org/el-futuro-de-la-libertad-la-energia-el-poder-y-la-arquitectura-de-la-civilizacion/</description>
-      <link>https://rebelion.org/el-futuro-de-la-libertad-la-energia-el-poder-y-la-arquitectura-de-la-civilizacion/</link>
-      <guid isPermaLink="false">f6b618405cf208bb</guid>
-      <pubDate>Wed, 28 Oct 2026 18:21:42 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/f6b618405cf208bb.mp3" length="2487312" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
