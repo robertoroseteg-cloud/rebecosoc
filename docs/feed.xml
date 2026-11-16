@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Una nueva era de fenómenos climáticos extremos»</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/una-nueva-era-de-fenomenos-climaticos-extremos/</description>
+      <link>https://rebelion.org/una-nueva-era-de-fenomenos-climaticos-extremos/</link>
+      <guid isPermaLink="false">f2f89e14fd207742</guid>
+      <pubDate>Mon, 16 Nov 2026 21:58:01 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/f2f89e14fd207742.mp3" length="2270736" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>William Nordhaus: crecimiento y cambio climático</title>
       <description>Rebelión · Ecología social — https://rebelion.org/william-nordhaus-crecimiento-y-cambio-climatico/</description>
       <link>https://rebelion.org/william-nordhaus-crecimiento-y-cambio-climatico/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">30811dc17c5d084e</guid>
       <pubDate>Fri, 30 Oct 2026 17:59:12 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/30811dc17c5d084e.mp3" length="2413728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Especialistas piden que el cambio climático sea reconocido y abordado como una emergencia sanitaria</title>
-      <description>Rebelión · Ecología social — https://rebelion.org/especialistas-piden-que-el-cambio-climatico-sea-reconocido-y-abordado-como-una-emergencia-sanitaria/</description>
-      <link>https://rebelion.org/especialistas-piden-que-el-cambio-climatico-sea-reconocido-y-abordado-como-una-emergencia-sanitaria/</link>
-      <guid isPermaLink="false">756c0e18707fcc6a</guid>
-      <pubDate>Thu, 29 Oct 2026 18:26:07 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/756c0e18707fcc6a.mp3" length="2569680" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
