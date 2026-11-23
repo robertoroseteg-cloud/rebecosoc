@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El gran desfase: cómo las políticas humanas nos llevan al abismo</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/el-gran-desfase-como-las-politicas-humanas-nos-llevan-al-abismo/</description>
+      <link>https://rebelion.org/el-gran-desfase-como-las-politicas-humanas-nos-llevan-al-abismo/</link>
+      <guid isPermaLink="false">00e070844a56b2db</guid>
+      <pubDate>Mon, 23 Nov 2026 23:51:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/00e070844a56b2db.mp3" length="5603760" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>COP31: una de las peores cumbres de la historia en un mundo más allá de los 1,5 °C</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/cop31-una-de-las-peores-cumbres-de-la-historia-en-un-mundo-mas-alla-de-los-15-c/</description>
+      <link>https://rebelion.org/cop31-una-de-las-peores-cumbres-de-la-historia-en-un-mundo-mas-alla-de-los-15-c/</link>
+      <guid isPermaLink="false">f4c00cbd98e27e1c</guid>
+      <pubDate>Mon, 23 Nov 2026 23:48:42 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/f4c00cbd98e27e1c.mp3" length="2823840" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>COP31: anatomía crítica de una cumbre climática</title>
       <description>Rebelión · Ecología social — https://rebelion.org/cop31-anatomia-critica-de-una-cumbre-climatica/</description>
       <link>https://rebelion.org/cop31-anatomia-critica-de-una-cumbre-climatica/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">584fbaa4e238e86e</guid>
       <pubDate>Mon, 09 Nov 2026 22:18:29 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/584fbaa4e238e86e.mp3" length="5212368" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una América Latina fragmentada se dirige a la COP31 en Antalya</title>
-      <description>Rebelión · Ecología social — https://rebelion.org/una-america-latina-fragmentada-se-dirige-a-la-cop31-en-antalya/</description>
-      <link>https://rebelion.org/una-america-latina-fragmentada-se-dirige-a-la-cop31-en-antalya/</link>
-      <guid isPermaLink="false">4911a1a321e40af6</guid>
-      <pubDate>Sat, 07 Nov 2026 17:45:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/4911a1a321e40af6.mp3" length="4551696" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El suelo como espejo de la relación entre humanidad y naturaleza</title>
-      <description>Rebelión · Ecología social — https://rebelion.org/el-suelo-como-espejo-de-la-relacion-entre-humanidad-y-naturaleza/</description>
-      <link>https://rebelion.org/el-suelo-como-espejo-de-la-relacion-entre-humanidad-y-naturaleza/</link>
-      <guid isPermaLink="false">c8c5439dc1eb1b43</guid>
-      <pubDate>Fri, 06 Nov 2026 19:22:20 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/c8c5439dc1eb1b43.mp3" length="8339760" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
