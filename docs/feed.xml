@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Fukushima: ¿Existe un horizonte más allá de la radiación?</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/fukushima-existe-un-horizonte-mas-alla-de-la-radiacion/</description>
+      <link>https://rebelion.org/fukushima-existe-un-horizonte-mas-alla-de-la-radiacion/</link>
+      <guid isPermaLink="false">a6ab2009b1555a0a</guid>
+      <pubDate>Sat, 28 Nov 2026 20:00:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/a6ab2009b1555a0a.mp3" length="2649312" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>COP 31: La transición energética se atasca</title>
+      <description>Rebelión · Ecología social — https://rebelion.org/cop-31-la-transicion-energetica-se-atasca/</description>
+      <link>https://rebelion.org/cop-31-la-transicion-energetica-se-atasca/</link>
+      <guid isPermaLink="false">b4fb40162d6b148d</guid>
+      <pubDate>Sat, 28 Nov 2026 19:58:29 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/b4fb40162d6b148d.mp3" length="3839760" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La alianza «contra» el clima y el negacionismo ecologista</title>
       <description>Rebelión · Ecología social — https://rebelion.org/la-alianza-contra-el-clima-y-el-negacionismo-ecologista/</description>
       <link>https://rebelion.org/la-alianza-contra-el-clima-y-el-negacionismo-ecologista/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">116430d22c77eefb</guid>
       <pubDate>Sat, 14 Nov 2026 17:59:08 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/116430d22c77eefb.mp3" length="4688640" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Día uno de la cumbre del clima: el anfitrión anuncia que extraerá más petróleo todavía</title>
-      <description>Rebelión · Ecología social — https://rebelion.org/dia-uno-de-la-cumbre-del-clima-el-anfitrion-anuncia-que-extraera-mas-petroleo-todavia/</description>
-      <link>https://rebelion.org/dia-uno-de-la-cumbre-del-clima-el-anfitrion-anuncia-que-extraera-mas-petroleo-todavia/</link>
-      <guid isPermaLink="false">95a0c7e04ba62959</guid>
-      <pubDate>Fri, 13 Nov 2026 19:36:29 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/95a0c7e04ba62959.mp3" length="2143440" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Coexistencia y límites en el Antropoceno</title>
-      <description>Rebelión · Ecología social — https://rebelion.org/coexistencia-y-limites-en-el-antropoceno/</description>
-      <link>https://rebelion.org/coexistencia-y-limites-en-el-antropoceno/</link>
-      <guid isPermaLink="false">0cce829a88d0e5b6</guid>
-      <pubDate>Thu, 12 Nov 2026 19:53:45 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebecosoc/episodios/0cce829a88d0e5b6.mp3" length="2176560" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
